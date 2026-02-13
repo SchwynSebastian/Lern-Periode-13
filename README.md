@@ -12,15 +12,22 @@ Grob-Planung
 
 ## 16.1.2026
 
-- [ ] Firmen zum Bewerben suchen
-- [ ] Bewerbungen abschicken
-- [ ] C# in Unity anschauen
+- [x] Firmen zum Bewerben suchen
+- [x] Bewerbungen abschicken
+- [x] C# in Unity anschauen
 
 ✍️ Heute habe ich
 
 ## 23.1.2026
 
-- [ ] 
-- [ ] 
+- [x] Bewerbungen abschicken
+- [ ] positive Rückmeldung erhalten
+- [x] javascript revisieren
+
+✍️ Heute habe ich
+
+## 13.2.2026
+
+- [ ] Bewerbungen abschicken
 
 ✍️ Heute habe ich
